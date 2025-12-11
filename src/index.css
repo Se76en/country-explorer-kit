@@ -124,6 +124,10 @@
     scroll-behavior: smooth;
   }
 
+  section[id] {
+    scroll-margin-top: 80px;
+  }
+
   body {
     @apply bg-background text-foreground font-body antialiased;
   }
