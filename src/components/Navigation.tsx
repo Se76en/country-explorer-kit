@@ -23,7 +23,7 @@ const Navigation = () => {
   const navItems = [
     { label: "Geografie", href: "#geography" },
     { label: "Demografie", href: "#demographics" },
-    { label: "Bibliografie", href: "#bibliography" },
+    { label: "Sitografie", href: "#bibliography" },
   ];
 
   const scrollToSection = (href: string) => {
