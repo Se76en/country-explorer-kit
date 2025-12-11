@@ -1,3 +1,6 @@
+import franceEuropeLocation from "@/assets/france-europe-location.png";
+import franceAdministrativeMap from "@/assets/france-administrative-map.png";
+
 const MapsSection = () => {
   return (
     <section className="py-20 md:py-32">
@@ -18,7 +21,7 @@ const MapsSection = () => {
             </h3>
             <div className="relative aspect-[4/3] bg-muted rounded-lg overflow-hidden">
               <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/EU-France.svg/800px-EU-France.svg.png"
+                src={franceEuropeLocation}
                 alt="Harta localizării Franței în Europa"
                 className="w-full h-full object-contain p-4"
               />
@@ -35,7 +38,7 @@ const MapsSection = () => {
             </h3>
             <div className="relative aspect-[4/3] bg-muted rounded-lg overflow-hidden">
               <img 
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/D%C3%A9partements_et_r%C3%A9gions_de_France.svg/800px-D%C3%A9partements_et_r%C3%A9gions_de_France.svg.png"
+                src={franceAdministrativeMap}
                 alt="Harta administrativă a Franței cu regiuni și departamente"
                 className="w-full h-full object-contain p-4"
               />
