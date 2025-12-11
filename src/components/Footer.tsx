@@ -11,7 +11,7 @@ const Footer = () => {
           </p>
           <p className="font-body text-french-white/60 text-sm">
             Realizat de{" "}
-            <span className="text-french-gold font-semibold inline-block hover:scale-110 hover:text-french-white transition-all duration-300 cursor-default animate-pulse">
+            <span className="text-french-gold font-medium relative after:absolute after:bottom-0 after:left-0 after:w-full after:h-px after:bg-french-gold after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-300 after:origin-left cursor-default transition-colors duration-300 hover:text-french-white">
               Iurascu Iulian
             </span>
           </p>
