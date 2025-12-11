@@ -9,12 +9,8 @@ const Footer = () => {
           <p className="font-display text-2xl text-french-white mb-2">
             Franța
           </p>
-          <p className="font-body text-french-white/60 text-sm mb-6">
-            Proiect de Geografie • 2024
-          </p>
-          
-          <p className="font-body text-french-white/40 text-xs">
-            Realizat pentru cerințele proiectului de geografie politică și demografie
+          <p className="font-body text-french-white/60 text-sm">
+            2024
           </p>
         </div>
       </div>
