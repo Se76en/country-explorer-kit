@@ -44,7 +44,7 @@ const MapsSection = () => {
               />
             </div>
             <p className="text-muted-foreground text-sm mt-4 text-center">
-              Cele 18 regiuni și 101 departamente ale Franței
+              Cele 18 regiuni ale Franței
             </p>
           </div>
         </div>
