@@ -15,9 +15,6 @@ const HeroSection = () => {
 
       <div className="relative z-10 container mx-auto px-6 text-center">
         <div className="animate-fade-up">
-          <p className="text-french-gold font-body text-sm uppercase tracking-[0.3em] mb-4">
-            Proiect de Geografie
-          </p>
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-french-white mb-6 tracking-tight">
             Franța
           </h1>
