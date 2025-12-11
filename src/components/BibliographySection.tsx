@@ -35,7 +35,7 @@ const BibliographySection = () => {
           <p className="text-primary font-body text-sm uppercase tracking-[0.2em] mb-3">
             Referințe
           </p>
-          <h2 className="section-title mb-4">Bibliografie</h2>
+          <h2 className="section-title mb-4">Sitografie</h2>
           <div className="tricolor-bar max-w-24 mx-auto" />
         </div>
 
